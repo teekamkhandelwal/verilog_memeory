@@ -106,3 +106,11 @@ module top;
  
   endmodule
     
+//output-
+# KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# KERNEL: time                  110 : write :: w_data=ab, adress=  7 
+# KERNEL: time                  230 : Read :: r_data=ab, adress=  7 
+# KERNEL: time                  250 : Read :: r_data=ab, adress=  7 
+# KERNEL: time                  270 : Read :: r_data=ab, adress=  7 
+# KERNEL: time                  290 : Read :: r_data=ab, adress=  7 
+# KERNEL: time                  310 : Read :: r_data=ab, adress=  7 
